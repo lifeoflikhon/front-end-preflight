@@ -1,0 +1,23 @@
+{
+  "name": "front-end-preflight",
+  "version": "1.0.0",
+  "description": "(Basic) - [x] Variables - [x] Operators - [x] Conditions - [x] Iterator ------------- (Advance) - [ ] Array - [ ] Function - [ ] Object - [ ] Class ------------- (Pro) - [ ] File - [ ] API - [ ] Modular System - [ ] Async / Promise ------------ (HTML) - [ ] DOM - [ ] Fetch - [ ] JSON",
+  "main": "conditions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lifeoflikhon/front-end-preflight.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lifeoflikhon/front-end-preflight/issues"
+  },
+  "homepage": "https://github.com/lifeoflikhon/front-end-preflight#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
